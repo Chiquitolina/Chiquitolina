@@ -10,7 +10,7 @@
 
 <div>
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20rem">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25rem">
 <img src="">
 <img src="">  
 <img src="">

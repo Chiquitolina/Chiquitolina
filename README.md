@@ -10,13 +10,13 @@
 
 <div>
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40rem">
-<img src="">
-<img src="">  
-<img src="">
-<img src="">  
-<img src="">  
-<img src="">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70rem">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="70rem">
+<img src="" width="70rem">  
+<img src="" width="70rem">
+<img src="" width="70rem">  
+<img src="" width="70rem">  
+<img src="" width="70rem">  
   
  </div>
 

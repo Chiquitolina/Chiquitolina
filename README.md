@@ -6,7 +6,7 @@
 
 <hr>
 
-### SkillSet
+### Languajes, frameworks and tools
 
 
 

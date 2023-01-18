@@ -21,12 +21,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="70rem">
   
  </div>
-
-<div>
-  
-<img src="">
-  
-</div>
+ 
+ <hr>
+ 
+ ### Contact me
 
 
 <hr>

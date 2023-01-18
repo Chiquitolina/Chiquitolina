@@ -18,7 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="70rem">  
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="70rem"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="70rem">
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="70rem">
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="70rem">
   
  </div>
 

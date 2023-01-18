@@ -1,8 +1,8 @@
 ### Hi there, i'm Alejandro 👋
 
--Full Stack Developer Jr.
--Computer Science student.
--Blockchain enthusiastic.
+<p>-Full Stack Developer Jr.</p>
+<p>-Computer Science student.</p>
+<p>-Blockchain enthusiastic.</p>
 
 <hr>
 

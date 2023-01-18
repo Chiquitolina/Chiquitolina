@@ -16,10 +16,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70rem">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="70rem">  
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="70rem">  
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="70rem">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="70rem">  
   
  </div>
 
+<div>
+  
+<img src="">
+  
+</div>
 
 
 <hr>

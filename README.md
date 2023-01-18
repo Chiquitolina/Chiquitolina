@@ -10,7 +10,7 @@
 
 <div>
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="1rem">
 <img src="">
 <img src="">  
 <img src="">

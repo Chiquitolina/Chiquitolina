@@ -1,4 +1,4 @@
-### Hi there, i'm Alejandro 👋
+### 👋 Hi there, i'm Alejandro
 
 <p>-Full Stack Developer Jr.</p>
 <p>-Computer Science student.</p>
@@ -6,7 +6,7 @@
 
 <hr>
 
-### Languajes, frameworks and tools
+### 🔨 Languajes, frameworks and tools
 
 
 

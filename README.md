@@ -1,5 +1,9 @@
 ### Hi there, i'm Alejandro 👋
 
+-Full Stack Developer Jr.
+-Computer Science student.
+-Blockchain enthusiastic.
+
 <hr>
 
 ### SkillSet

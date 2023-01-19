@@ -1,4 +1,4 @@
-### 👋 Hi there, i'm Alejandro, from Rosario, Santa Fe, Argentina 🇦🇷
+### 👋 Hi there, i'm Alejandro
 
 <p>-Full Stack Developer Jr.</p>
 <p>-Computer Science student.</p>
@@ -24,7 +24,7 @@
  
  <hr>
  
- 💻 ### Contact me
+ ### 💻 Contact me
  
  <div>
  

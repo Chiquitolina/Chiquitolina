@@ -28,9 +28,9 @@
  
  <div>
   
- <img src="https://www.freepnglogos.com/pics/linkedin-logo-png" href="">
+ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" href="">
   
- <img src="https://www.freepnglogos.com/pics/linkedin-logo-png" href="">
+ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" href="">
   
  </div>
 

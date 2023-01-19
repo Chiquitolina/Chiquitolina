@@ -27,12 +27,16 @@
  ### Contact me
  
  <div>
+ 
+ <a href="https://www.linkedin.com/in/alejandro-ignacio-godino/">
+ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50rem">
+ </a>
+
+<a>  
+<img src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" href="" width="50rem">
+</a>
   
- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" href="https://www.linkedin.com/in/alejandro-ignacio-godino/" width="50rem">
-  
- <img src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" href="" width="50rem">
-  
- </div>
+</div>
 
 
 <hr>

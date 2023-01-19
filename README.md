@@ -2,7 +2,7 @@
 
 <p>-Full Stack Developer Jr.</p>
 <p>-Computer Science student.</p>
-<p>-Blockchain enthusiastic.</p>
+<p>-Blockchain and crypto enthusiastic.</p>
 
 <hr>
 
@@ -28,9 +28,9 @@
  
  <div>
   
- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" href="">
+ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" href="" width="50rem">
   
- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" href="">
+ <img src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" href="" width="50rem">
   
  </div>
 

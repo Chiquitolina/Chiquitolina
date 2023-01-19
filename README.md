@@ -22,10 +22,17 @@
   
  </div>
  
+  <div>
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50rem">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" width="50rem">
+ 
+ </div>
+ 
  <div>
  
- <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50rem">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50rem">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50rem">
  
  </div>
  

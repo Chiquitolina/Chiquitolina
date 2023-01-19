@@ -25,6 +25,14 @@
  <hr>
  
  ### Contact me
+ 
+ <div>
+  
+ <img src="https://www.freepnglogos.com/pics/linkedin-logo-png" href="">
+  
+ <img src="https://www.freepnglogos.com/pics/linkedin-logo-png" href="">
+  
+ </div>
 
 
 <hr>

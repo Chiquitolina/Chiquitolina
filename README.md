@@ -24,7 +24,7 @@
  
  <hr>
  
- ### Contact me
+ 💻 ### Contact me
  
  <div>
  
@@ -32,8 +32,8 @@
  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50rem">
  </a>
 
-<a>  
-<img src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" href="" width="50rem">
+<a href="mailto:aleig.906@gmail.com">  
+<img src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" width="50rem">
 </a>
   
 </div>
